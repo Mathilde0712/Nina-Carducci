@@ -9,7 +9,7 @@ Compétences évaluées :
 Vous êtes développeur freelance et vous décidez de proposer vos services d’optimisation SEO à de nouveaux clients. Pour ce faire, vous avez analysé plusieurs sites internet. Vous avez ensuite pris contact avec les administrateurs des sites qui peuvent être optimisés pour leur proposer vos services.
 Parmi vos prospects, il y a le site de Nina Carducci, une photographe dont vous a parlé l’un de vos amis.
 
-Vous listez vos 3 missions principales. Vous devez donc développer :
+Vous listez vos missions principales. Vous devez donc développer :
 
 1. Faire une optimisation globale du site tant sur les performances que sur le SEO.
 2. Mettre en place le référencement local en utilisant Schema.org.
